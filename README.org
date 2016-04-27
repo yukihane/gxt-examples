@@ -1,0 +1,5 @@
+Project for running [[http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.sencha.gxt%22%20AND%20a%3A%22gxt-examples%22][gxt-examples]] .
+
+refs.
+http://neiliscoding.blogspot.jp/2012/05/getting-started-quick-setup-for-gxt-3.html
+https://docs.sencha.com/gxt-guides/3/getting_started/getting_started_3/Getting_Started_3.html
